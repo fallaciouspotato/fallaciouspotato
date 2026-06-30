@@ -1,5 +1,5 @@
 # 💫 About Me:
- A Third Year Computer Science student at VIT Bhopal University<br>Pursuing CSE Specializated in Gaming Technology<br>Loves Low Level Programming and System Design<br>Proficient in C++ , C# , JS.<br>Learning Backend Development.<br>Building projects and Contributing.<br>
+ A Third Year Computer Science student at VIT Bhopal University<br>Pursuing CSE Specializated in Gaming Technology<br>Loves Low Level Programming and System Design<br>Proficient in C++ , C# , Js , node.js.<br>Learning Backend Development.<br>Building projects and Contributing.<br>
 
 
 ## 🌐 Socials:
